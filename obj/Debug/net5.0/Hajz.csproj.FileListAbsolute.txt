@@ -1,0 +1,923 @@
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\appsettings.json
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\libman.json
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.StaticWebAssets.xml
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.exe
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.deps.json
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.runtimeconfig.json
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.runtimeconfig.dev.json
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ref\Hajz.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.Views.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Hajz.Views.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\NToastNotify.Views.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\NToastNotify.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.AssemblyInfoInputs.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.AssemblyInfo.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.RazorAssemblyInfo.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.RazorAssemblyInfo.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\scopedcss\bundle\Hajz.styles.css
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\staticwebassets\Hajz.StaticWebAssets.Manifest.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\staticwebassets\Hajz.StaticWebAssets.xml
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.TagHelpers.input.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.TagHelpers.output.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.RazorCoreGenerate.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Account\UsersForm.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\CachRE\CachRE.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\CachRE\CachREDetails.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\CachRE\CachREForm.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Expenses\Expenses.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Expenses\ExpensesForm.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Home\Add_Tamplet.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Home\Card.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Itemrev\Itemrev.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Itemrev\ItemrevForm.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Newhajz\Newhajz.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Newhajz\NewhajzDetails.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Newhajz\NewhajzForm.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\TqarerItem\TqarerItem.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\TqarerPrice\TqarerPrice.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Tqarer\Tqarer.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Typemor\Typemor.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Typemor\TypemorForm.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Typerev\Typerev.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\Typerev\TyperevForm.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.RazorTargetAssemblyInfo.cs
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.Views.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.csproj.CopyComplete
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\ref\Hajz.dll
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.pdb
+C:\Users\Mohammed Alsufyani\Desktop\نظام الحجوزات مال سوفت\نظام الحجز اخر تحديث\Alomana_System\obj\Debug\net5.0\Hajz.genruntimeconfig.cache
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\appsettings.Development.json
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\appsettings.json
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\libman.json
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.StaticWebAssets.xml
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.exe
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.deps.json
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.runtimeconfig.json
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.runtimeconfig.dev.json
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ref\Hajz.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.pdb
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\netstandard.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Console.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Data.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Web.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.Views.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Hajz.Views.pdb
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\AutoMapper.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Humanizer.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\NToastNotify.Views.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\NToastNotify.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Disk D\مشاريعي C#\Hajz\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.csprojAssemblyReference.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.AssemblyInfoInputs.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.AssemblyInfo.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.csproj.CoreCompileInputs.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.MvcApplicationPartsAssemblyInfo.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.MvcApplicationPartsAssemblyInfo.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.RazorAssemblyInfo.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.RazorAssemblyInfo.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\staticwebassets\Hajz.StaticWebAssets.Manifest.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\staticwebassets\Hajz.StaticWebAssets.xml
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\scopedcss\bundle\Hajz.styles.css
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.TagHelpers.input.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.TagHelpers.output.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.RazorCoreGenerate.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Account\UsersForm.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\CachRE\CachRE.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\CachRE\CachREDetails.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\CachRE\CachREForm.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Expenses\Expenses.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Expenses\ExpensesForm.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Home\Add_Tamplet.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Home\Card.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Itemrev\Itemrev.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Itemrev\ItemrevForm.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Newhajz\Newhajz.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Newhajz\NewhajzDetails.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Newhajz\NewhajzForm.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\TqarerItem\TqarerItem.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\TqarerPrice\TqarerPrice.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Tqarer\Tqarer.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Typemor\Typemor.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Typemor\TypemorForm.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Typerev\Typerev.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\Typerev\TyperevForm.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.RazorTargetAssemblyInfo.cache
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.RazorTargetAssemblyInfo.cs
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.Views.pdb
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.csproj.CopyComplete
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.dll
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\ref\Hajz.dll
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.pdb
+D:\Disk D\مشاريعي C#\Hajz\obj\Debug\net5.0\Hajz.genruntimeconfig.cache

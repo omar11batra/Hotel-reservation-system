@@ -1,0 +1,227 @@
+﻿@model NewhajzFormVM
+
+@{
+    ViewData["Title"] = "حجز جديد ";
+}
+    <!-- Content wrapper -->
+        <div class="content-wrapper">
+          <!-- Content -->
+
+          <div class="container-xxl flex-grow-1 container-p-y">
+           
+
+            <div class="row">
+              <div class="col-md-12">
+               
+                <div class="card mb-4">
+                  <h5 class="card-header">@(Model.Id > 0 ? "تعديل" : "إضافة حجز")</h5>
+                  <!-- Account -->
+               
+             
+                  <hr class="my-0" />
+                  <div class="card-body">
+                    <form asp-action="@(Model.Id > 0 ? "Edit" : "Create")" id="multiStepsForm" method="POST">
+                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                      <input type="hidden" asp-for="Id" />
+                      <div class="row">
+                       
+                          <div class="col-md-3 mb-3">
+                          <label  asp-for="Number" class="form-label" for="id">الرقم </label>
+                          <input asp-for="Number" type="text" class="form-control" placeholder="1" readonly />
+                          <span asp-validation-for="Number" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="Name" class="form-label" for="name">الاسم </label>
+                          <input asp-for="Name" type="text" class="form-control" id="name" placeholder="الاسم"
+                            aria-label="" />
+                         <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label  asp-for="Address" class="form-label" for="id">العنوان </label>
+                          <input asp-for="Address" type="text" class="form-control"  />
+                          <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label  asp-for="PhoneNumber" class="form-label" for="id">رقم الهاتف </label>
+                          <input asp-for="PhoneNumber" type="text" class="form-control"  />
+                          <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label  asp-for="PhoneNumber2" class="form-label" for="id">رقم الهاتف 2 </label>
+                          <input asp-for="PhoneNumber2" type="text" class="form-control"  />
+                          <span asp-validation-for="PhoneNumber2" class="text-danger"></span>
+                        </div>
+                         @* <div class="col-md-3 mb-3">
+                          <label asp-for="PhoneNumber3" class="form-label" > رقم الهاتف 3</label>
+                          <input asp-for="PhoneNumber3" type="text" class="form-control"  />
+                           <span asp-validation-for="PhoneNumber3" class="text-danger"></span>    
+                        </div>*@
+                        @*<div class="col-md-3 mb-3">
+                         
+                          <label asp-for="Daydate"  class="form-label">تاريخ موعد الحضور</label>
+                                                                        
+                           <input asp-for="Daydate" class="form-control" type="date" value="2021-06-18"  required>
+                           <span asp-validation-for="Daydate" class="text-danger"></span>                                      
+                        </div>*@
+                         <div class="col-md-3 mb-3">
+                         
+                          <label asp-for="Daydate"  class="form-label">تاريخ موعد الحضور</label>
+                                                                        
+                           <input asp-for="Daydate" class="form-control" type="date" value="DateTime.Now"  required >
+                           <span asp-validation-for="Daydate" class="text-danger"></span>                                      
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="Periodhajz" class="form-label" >الفترة </label>
+                          <input asp-for="Periodhajz" type="text" class="form-control"  />
+                           <span asp-validation-for="Periodhajz" class="text-danger"></span>    
+                        </div>
+                       @* <div class="col-md-3 mb-3">
+                          <label asp-for="Typehajz" class="form-label" >نوع الحجز </label>
+                          <input asp-for="Typehajz" type="text" class="form-control"  />
+                           <span asp-validation-for="Typehajz" class="text-danger"></span>    
+                        </div>*@
+                        <div class="col-md-3 mb-3">
+                        <label  asp-for="TyperevId" class="form-label" >نوع الحجز</label>
+                           <select asp-for="TyperevId" id="Typerev" class="select2 form-select" data-allow-clear="true" title="نوع الحجز" asp-items="@(Model.Typerev != null ? new SelectList(Model.Typerev,"Id","Name") : new SelectList(string.Empty,"value","text"))">
+                                       <option value="">اختيار النوع </option>
+                                   
+                            </select>
+                             <span asp-validation-for="TyperevId" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+
+                                    <label  asp-for="ItemrevId" class="form-label" >الصنف</label>
+                                    <select asp-for="ItemrevId" id="Itemrev" class="select2 form-select" data-allow-clear="true" asp-items="@(Model.Itemrev != null ? new SelectList(Model.Itemrev,"Id","Name") : new SelectList(string.Empty,"value","text"))">
+                                        <option value="sa"></option>
+                                        
+                                    </select>
+                           <span asp-validation-for="ItemrevId" class="text-danger"></span>
+                        </div>
+                          <div class="col-md-3 mb-3">
+                        <label  asp-for="TypemorId" class="form-label" >نوع الجهاز</label>
+                           <select asp-for="TypemorId" id="court-of-appeal" class="select2 form-select" data-allow-clear="true" title="" asp-items="@(Model.Typemor != null ? new SelectList(Model.Typemor,"Id","Name") : new SelectList(string.Empty,"value","text"))">
+                                       <option value="">اختيار الجهاز </option>
+                                   
+                            </select>
+                             <span asp-validation-for="TypemorId" class="text-danger"></span>
+                        </div>
+                        
+                        
+                        
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="Notice" class="form-label" >البيان </label>
+                          <input asp-for="Notice" type="text" class="form-control"  />
+                           <span asp-validation-for="Notice" class="text-danger"></span>    
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="Price" class="form-label" >المبلغ </label>
+                          <input asp-for="Price" id="price" type="text" class="form-control"  />
+                           <span asp-validation-for="Price" class="text-danger"></span>    
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="PriceD" class="form-label" >المبلغ المدفوع </label>
+                          <input asp-for="PriceD" id="priceD" type="text" class="form-control"  />
+                           <span asp-validation-for="PriceD" class="text-danger"></span>    
+                        </div>
+                       <div class="col-md-3 mb-3">
+                          <label asp-for="PriceR" class="form-label" >المبلغ المتبقي </label>
+                          <input asp-for="PriceR" id="priceR" type="text" class="form-control" readOnly/>
+                           <span asp-validation-for="PriceR" class="text-danger"></span>    
+                        </div>
+                         <input  type="hidden" asp-for="UserId" />
+                      </div>
+                      <div class=" mt-2 d-grid gap-2 col-3">
+                        <button  type="submit" value="Save"  class="btn btn-primary ">حفظ </button>
+                       </div>  
+                    </form>
+                    <div class="mt-2 d-grid gap-2 col-3">
+                    <a  asp-action="Newhajz" type="submit" class="btn btn-label-secondary">إلغاء</a>
+                  </div>
+                  </div>
+                  
+                  <!-- /Account -->
+                </div>
+               
+              </div>
+            </div>
+          </div>
+          <!-- / Content -->
+
+   
+
+
+          <div class="content-backdrop fade"></div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+        $(document).ready(function(){
+        $('#price,#priceD').keyup(function(){
+            var priceR=0;
+            var x=Number($('#price').val());
+            var y=Number($('#priceD').val());
+            var total=x-y;
+
+            $('#priceR').val(total);
+        })
+    });
+  
+
+
+$(function () {
+    $("#Typerev").change(function () {
+        $.getJSON("/Newhajz/GetItemrev", { id: $("#Typerev").val() }, function (d) {
+
+            if (d.length != 0) {
+                var row = "";
+                $("#Itemrev").empty();
+                row += "<Option value=" + 'ItemrevId' + ">" + 'اختار الصنف' + "</option>";
+
+                for (var x in d) {
+
+                    row += "<Option value=" + d[x].id + ">" + d[x].name + "</option>";
+                }
+                $("#Itemrev").html(row);
+            }
+
+            else {
+                var row = "";
+                $("#Itemrev").empty();
+                row += "<Option value=" + 'ItemrevId' + ">" + 'لايوجد صنف ' + "</option>";
+                $("#Itemrev").html(row);
+            }
+        })
+
+
+    })
+});
+</script>
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

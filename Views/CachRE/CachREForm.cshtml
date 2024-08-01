@@ -1,0 +1,206 @@
+﻿@inject SignInManager<User> signInManager;
+@model CachREFormVM
+@{
+    ViewData["Title"] = "سند قبض";
+}
+      <!-- Content wrapper -->
+        <div class="content-wrapper">
+          <!-- Content -->
+
+          <div class="container-xxl flex-grow-1 container-p-y">
+           
+
+            <div class="row">
+              <div class="col-md-12">
+               
+                <div class="card mb-4">
+                  <h5 class="card-header">@(Model.Id>0 ? "تعديل" : "إضافة سند فبض")</h5>
+                  <!-- Account -->
+               
+             
+                  <hr class="my-0" />
+                  <div class="card-body">
+                    <form asp-action="@(Model.Id>0 ? "Edit" : "Create")" id="multiStepsForm" method="POST">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" />
+
+                     <input id="NewhajzId" type="hidden" asp-for="NewhajzId"/>
+
+                      <div class="column">
+                       @* <div class="col-md-3 mb-3">
+                          <label asp-for="CachId" class="form-label"> الصندوق</label>
+                          <select asp-for="CachId" class="form-select form-control" asp-items="@(new SelectList(Model.Cach,"Id","Name"))">
+                              <option value="">اختيار الصندوق</option>
+                          </select>
+                           <span asp-validation-for="CachId" class="text-danger"></span>
+                        </div>*@
+                           <div class="col-md-3 mb-3">
+                          <label  asp-for="Number" class="form-label" for="id">الرقم </label>
+                          <input asp-for="Number" type="text" class="form-control" placeholder="1" readonly />
+                          <span asp-validation-for="Number" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                        
+                            <label asp-for="PhoneNumber" class="form-label">رقم تلفون المريض</label>
+                            <input id="PhoneNumber" asp-for="PhoneNumber" type="number"  class="form-control" >
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                         
+                          <label asp-for="Name" class="form-label" >اسم المريض</label>
+                          <input id="NewhajzName" asp-for="Name" type="text" class="form-control" readonly/>
+                         <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        @* @if (signInManager.IsSignedIn(User))
+                         {
+                         <div class="col-md-3 mb-3">
+
+                          <label  class="form-label">اسم الصندوق </label>
+                          <input  value="@User.Identity.Name" type="number" class="form-control" placeholder="1" readOnly/>
+                                  
+                        </div>
+                        }*@
+                     
+                       @* <div class="col-md-3 mb-3">
+                          <label asp-for="Name" class="form-label" >الاسم </label>
+                          <input asp-for="Name" class="form-control"  placeholder="سند قبض" />
+                          <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+  *@                      <div class="col-md-3 mb-3">
+                         
+                          <label asp-for="BondDate"  class="form-label">تاريخ السند</label>
+                                                                        
+                           <input asp-for="BondDate" class="form-control" type="date" value="DateTime.Now"  required >
+                           <span asp-validation-for="BondDate" class="text-danger"></span>                                      
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="Notice" class="form-label" >البيان </label>
+                          <input asp-for="Notice" class="form-control"  placeholder="" />
+                          <span asp-validation-for="Notice" class="text-danger"></span>
+                        </div>
+                        @*<div class="col-md-3 mb-3">
+                          <label asp-for="Price" class="form-label" >المبلغ المتبقي </label>
+                          <input asp-for="Price" class="form-control"  placeholder="سند قبض" />
+                          <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>*@
+                    @*    <div class="col-md-3 mb-3">
+                          <label asp-for="Price" class="form-label" >المبلغ </label>
+                          <input asp-for="Price" id="price" type="text" class="form-control"  />
+                           <span asp-validation-for="Price" class="text-danger"></span>    
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="PriceD" class="form-label" >المبلغ المدفوع </label>
+                          <input asp-for="PriceD" id="priceD" type="text" class="form-control"  />
+                           <span asp-validation-for="PriceD" class="text-danger"></span>    
+                        </div>*@
+                           <div class="col-md-3 mb-3">
+                          <label asp-for="Price" class="form-label" >المبلغ الاجمالي </label>
+                          <input asp-for="Price" id="Newhajzprice" type="text" class="form-control" readOnly/>
+                           <span asp-validation-for="Price" class="text-danger"></span>    
+                        </div>
+                       <div class="col-md-3 mb-3">
+                          <label @*asp-for="PriceR"*@ class="form-label" >  المبلغ المتبقي </label>
+                          <input @*asp-for="PriceR"*@ id="NewhajzpriceR" type="text" class="form-control" readOnly/>
+                           <span @*asp-validation-for="PriceR"*@ class="text-danger"></span>    
+                        </div>
+                        
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="PriceD" class="form-label" >مبلغ الدفعة التالي </label>
+                          <input asp-for="PriceD" id="priceD" type="text" class="form-control"  />
+                           <span asp-validation-for="PriceD" class="text-danger"></span>    
+                        </div>
+
+                         <div class="col-md-3 mb-3">
+                          <label asp-for="PriceR" class="form-label" >المبلغ المتبقي </label>
+                          <input asp-for="PriceR" id="newPriceR" type="text" class="form-control" readOnly/>
+                           <span asp-validation-for="PriceR" class="text-danger"></span>    
+                        </div>
+                      </div>
+
+                         <input  type="hidden" asp-for="UserId"/>
+                       
+                     <div class=" mt-2 d-grid gap-2 col-3">
+                        <button  type="submit" value="Save" class="btn btn-primary ">حفظ </button>
+                       </div>  
+                    </form>
+                    <div class="mt-2 d-grid gap-2 col-3">
+                    <a  asp-action="CachRE" type="submit" class="btn btn-label-secondary">إلغاء</a>
+                  </div>
+                  </div>
+                  <!-- /Account -->
+                </div>
+               
+              </div>
+            </div>
+          </div>
+          <!-- / Content -->
+
+   
+
+
+          <div class="content-backdrop fade"></div>
+        </div>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+  @*  <script>
+        $(document).ready(function(){
+        $('#price,#priceD').keyup(function(){
+            var priceR=0;
+            var x=Number($('#price').val());
+            var y=Number($('#priceD').val());
+            var total=x-y;
+
+            $('#priceR').val(total);
+        })
+    }) ;
+
+     
+    </script>*@
+    <script>
+        $(function () {
+    $("#PhoneNumber").change(function () {
+        $.getJSON("/CachRE/GetNewhajz", { id: $("#PhoneNumber").val() }, function (d) {
+            console.log("yes");
+            console.log(d);
+            if (d != null) {
+                $("#NewhajzName").val(d.name);
+                $("#NewhajzId").val(d.id);
+                $("#NewhajzpriceR").val(d.priceR);
+                $("#Newhajzprice").val(d.price);
+
+            }
+
+            else
+                $("#NewhajzName").val(Error("لا يوجد مريض بهذا الرقم"));
+
+        })
+    })
+});
+//$(document).ready(function() {
+//    $('#NewhajzpriceR, #priceD').keyup(function() {
+//        var x = Number($('#NewhajzpriceR').val());
+//        var y = Number($('#priceD').val());
+//        var total = x - y;
+
+//        if (!isNaN(total)) {
+//            $('#NewhajzpriceR').val(total);
+//        } else {
+//            $('#NewhajzpriceR').val('');
+//        }
+//    });
+//});
+  $(document).ready(function(){
+        $('#NewhajzpriceR,#priceD').keyup(function(){
+           var newPriceR=0;
+
+            var x=Number($('#NewhajzpriceR').val());
+            var y=Number($('#priceD').val());
+            var total=x-y;
+
+            $('#newPriceR').val(total);
+        })
+    })
+    </script>
+}

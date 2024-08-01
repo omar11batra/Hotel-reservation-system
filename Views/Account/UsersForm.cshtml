@@ -1,0 +1,118 @@
+﻿@model UsersFormVM
+
+@{
+    ViewData["Title"] = "المستخدمين";
+}
+
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <div class="row">
+            <div class="col-md-12">
+
+                <div class="card mb-4">
+                    <h5 class="card-header">@(Model.Id != null ? "تعديل" : "إضافة مستخدم")</h5>
+
+
+
+                    <hr class="my-0" />
+                    <div class="card-body">
+                        <form asp-action="@(Model.Id != null ? "Edit" : "Create")" id="addNewUserForm" method="POST">
+                            <div class="column">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <input asp-for="Id" type="hidden" />
+                                <div class="col-md-3 mb-3">
+
+                                    <label asp-for="UserName" class="form-label">اسم المستخدم </label>
+                                    <input asp-for="UserName" type="text" class="form-control" id="add-user-fullname" placeholder="اسم المستخدم" aria-label="اسم المستخدم" />
+                                    <span asp-validation-for="UserName" class="text-danger"></span>
+                                </div>
+                                @if (Model.Id != null)
+                                {
+                                    <div class="col-md-3 mb-3">
+                                        <label asp-for="CurrentPassword" class="form-label">كلمة المرور الحالية</label>
+                                        <input asp-for="CurrentPassword" id="add-use-password" class="form-control" placeholder="كلمة المرور" />
+                                    </div>
+                                }
+                                <div class="col-md-3 mb-3">
+                                    @if (Model.Id != null)
+                                    {
+                                        <label asp-for="Password" class="form-label">كلمة المرور الجديده</label>
+                                    }
+                                    else
+                                    {
+                                        <label asp-for="Password" class="form-label">كلمة المرور</label>
+                                    }
+                                    <input asp-for="Password" id="add-use-password" class="form-control" placeholder="كلمة المرور" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                @if (Model.Id == null)
+                                {
+                                    <div class="col-md-3 mb-3">
+                                        <label asp-for="ConfirmPassword" class="form-label">تأكيد كلمة المرور </label>
+                                        <input asp-for="ConfirmPassword" id="confirm-use-password" class="form-control" placeholder="تأكيد كلمة المرور" />
+                                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                    </div>
+                                }
+                                <div class="col-md-3 mb-3">
+                                    <small class="d-block ">حالة المستخدم</small>
+                                    <div class="form-check form-check-inline mt-3">
+                                        <input asp-for="IsActive" class="form-check-input" type="radio" id="inlineRadio1"
+                                               value="true" />
+                                        <label asp-for="IsActive" class="form-check-label">نشط</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input asp-for="IsActive" class="form-check-input" type="radio" id="inlineRadio2"
+                                               value="false" />
+                                        <label asp-for="IsActive" class="form-check-label">غير نشط </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <div class="card mt-2">
+                                        <div class="card-header">
+                                            الصلاحيات
+                                        </div>
+                                        <div class="card-body">
+                                            @for (int i = 0; i < Model.Roles.Count; i++)
+                                            {
+                                                <div class="form-check m-1">
+                                                    <input type="hidden" asp-for="@Model.Roles[i].RoleName" />
+                                                    <input asp-for="@Model.Roles[i].IsSelected" class="form-check-input" />
+                                                    <label class="form-check-label" asp-for="@Model.Roles[i].IsSelected">
+                                                        @Model.Roles[i].RoleName
+                                                    </label>
+                                                </div>
+                                            }
+                                            <span asp-validation-for="Roles" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" mt-2 d-grid gap-2 col-3">
+                                <button type="submit" value="Save" class="btn btn-primary ">حفظ </button>
+                            </div>
+                        </form>
+                        <div class="mt-2 d-grid gap-2 col-3">
+                            <a asp-action="Users" type="submit" class="btn btn-label-secondary">إلغاء</a>
+                        </div>
+                    </div>
+                    <!-- /Account -->
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- / Content -->
+
+
+
+
+    <div class="content-backdrop fade"></div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

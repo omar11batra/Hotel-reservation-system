@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "الصفحة الرئيسية";
+}
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <div class="row">
+
+            
+            <div class="col-12 col-sm-6">
+                <div class="row">
+                    <div class="col-12 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between">
+                                    <div class="gap-3 d-flex align-items-center">
+                                        <div class="avatar">
+                                            <span class="avatar-initial bg-label-primary rounded-circle">
+                                                <i class="bx bx-user fs-4"></i>
+                                            </span>
+                                        </div>
+                                        <div class="card-info">
+                                            <h5 class="card-title me-2 mb-0">@ViewBag.Ameen</h5>
+                                            <small class="text-muted fw-bolder">عدد الحاجزين</small>
+                                        </div>
+                                    </div>
+                                    <div id="conversationChart"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- عدد المستخدمين -->
+
+                    <div class="col-12 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between">
+                                    <div class="gap-3 d-flex align-items-center">
+                                        <div class="avatar">
+                                            <span class="avatar-initial bg-label-primary rounded-circle">
+                                                <i class="bx bx-user fs-4"></i>
+                                            </span>
+                                        </div>
+                                        <div class="card-info">
+                                            <h5 class="card-title me-2 mb-0">@ViewBag.Users</h5>
+                                            <small class="text-muted fw-bolder">عدد الحجوزات</small>
+                                        </div>
+                                    </div>
+                                    <div id="conversationChart"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-12 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between">
+                                    <div class="gap-3 d-flex align-items-center">
+                                        <div class="avatar">
+                                            <span class="avatar-initial bg-label-primary rounded-circle">
+                                                <i class="bx bx-user fs-4"></i>
+                                            </span>
+                                        </div>
+                                        <div class="card-info">
+                                            <h5 class="card-title me-2 mb-0">@ViewBag.OffArea</h5>
+                                            <small class="text-muted fw-bolder">عدد الحجوات الشاغرة</small>
+                                        </div>
+                                    </div>
+                                    <div id="conversationChart"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between">
+                                    <div class="gap-3 d-flex align-items-center">
+                                        <div class="avatar">
+                                            <span class="avatar-initial bg-label-primary rounded-circle">
+                                                <i class="bx bx-user fs-4"></i>
+                                            </span>
+                                        </div>
+                                        <div class="card-info">
+                                            <h5 class="card-title me-2 mb-0">@ViewBag.OnArea</h5>
+                                            <small class="text-muted fw-bolder">عدد الحجوزات الغير شاغرة</small>
+                                        </div>
+                                    </div>
+                                    <div id="conversationChart"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                  
+
+
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+    <!-- / Content -->
+   
+    <div class="content-backdrop fade"></div>
+</div>

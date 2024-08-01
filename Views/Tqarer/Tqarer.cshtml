@@ -1,0 +1,400 @@
+﻿@*@model List<Newhajz>
+
+@{
+    ViewData["Title"] = "Tqarer";
+}
+
+<h2>Tqarer</h2>
+
+<div>
+    <form method="get" action="@Url.Action("Tqarer")">
+        <div>
+            <label for="term">Search Term:</label>
+            <input type="text" id="term" name="term" value="@ViewBag.Term" />
+        </div>
+        <div>
+            <label for="fromDate">From Date:</label>
+            <input type="date" id="fromDate" name="fromDate" value="" />
+        </div>
+        <div>
+            <label for="toDate">To Date:</label>
+            <input type="date" id="toDate" name="toDate" value="" />
+        </div>
+        <div>
+            <button type="submit">Search</button>
+        </div>
+    </form>
+</div>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>User</th>
+                <th>Typerev</th>
+                <th>Typemor</th>
+                <th>Itemrev</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.User.UserName</td>
+                    <td>@item.Typerev</td>
+                    <td>@item.Typemor</td>
+                    <td>@item.Itemrev</td>
+                    <td>@item.Date.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div>
+        @if (ViewBag.pagesCount > 1)
+        {
+            <div>
+                <span>Page:</span>
+                @for (int i = 1; i <= ViewBag.pagesCount; i++)
+                {
+                    <a href="@Url.Action("Tqarer", new { term = ViewBag.Term, fromDate = ViewBag.fromDate, toDate = ViewBag.toDate, RequiredPage = i, rowNum = ViewBag.num })">@i</a>
+                }
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No results found.</p>
+}*@
+@inject SignInManager<User> signInManager;
+@model IEnumerable<Hajz.Models.Newhajz>
+@{
+    ViewData["Title"] = "حجز جديد";
+}
+
+
+
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <!-- Basic Bootstrap Table -->
+        <div class="card mb-4">
+
+            <div class="card-header">
+                <form method="get" action="@Url.Action("Tqarer")">
+                    <div class="row ms-2 me-3">
+
+                        <div class="col-12 col-md-6 d-flex align-items-center justify-content-center justify-content-md-start gap-2">
+
+
+                            <div class="dataTables_length" id="DataTables_Table_0_length">
+                                <label>
+                                    <select name="rowNum" aria-controls="DataTables_Table_0" class="form-select">
+                                        <option value="5" selected="@(ViewBag.num ==5 ? true :false)">5</option>
+                                        <option value="10" selected="@(ViewBag.num ==10 ? true :false)">10</option>
+                                        <option value="50" selected="@(ViewBag.num ==50 ? true :false)">50</option>
+                                        <option value="100" selected="@(ViewBag.num ==100 ? true :false)">100</option>
+                                    </select>
+                                </label>
+                            </div>
+
+
+
+                            <div id="DataTables_Table_0_filter" class="dataTables_filter">
+
+
+                                <div class="">
+                                    
+
+                                  @*  <span id="basic-icon-default-fullname2" class="input-group-text">
+                                        <i class="bx bx-search-alt"></i>
+                                    </span>
+                                     *@
+                                <div class="row">
+
+                                     <div>
+            <label for="fromDate">From Date:</label>
+            <input type="date" class="form-control"  id="fromDate" name="fromDate" value="" />
+        </div>
+        <div>
+            <label for="toDate">To Date:</label>
+            <input type="date" class="form-control"  id="toDate" name="toDate" value="" />
+        </div>
+        <div>
+            <label for="term">Search Term:</label>
+            <input type="text" id="term" name="term" value="@ViewBag.Term" />
+        </div>
+          <button type="submit" value="بحث" class="btn btn-primary ">بحث </button>
+                                </div>
+                                    
+                                </div>
+
+                            </div>
+                            <div> <button type="button" id="btnprint"  class="btn btn-primary me-2">طباعة</button></div>
+
+                        </div>
+
+                        <div class="col-12 col-md-6 d-flex align-items-center justify-content-end flex-column flex-md-row pe-3 gap-md-2">
+                            <div class="dt-action-buttons text-xl-end text-lg-start text-md-end text-start mt-md-0 mt-3">
+
+                                <div class="dt-buttons">
+                                    @if (User.IsInRole("مدير_النظام") || User.IsInRole("مستخدم"))
+                                    {
+                                        <a class="dt-button btn btn-primary"
+                                       asp-area="" asp-action="Create">
+                                            <span><i class="bx bx-plus me-md-2"></i><span class="d-md-inline-block d-none">إضافة عنصر جديد</span></span>
+                                        </a>
+                                    }
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="card-body" id="DataTables">
+
+                <div class="table-responsive text-nowrap">
+                              @if (Model != null )
+{
+                    <table class="table">
+                        <thead>
+                            <tr>
+                               
+
+            <th> @Html.DisplayNameFor(model => model.Number) </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+           
+             <th>
+                @Html.DisplayNameFor(model => model.Periodhajz)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Daydate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PriceD)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PriceR)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Hajzdate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Typerev)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Itemrev)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Typemor)
+            </th>
+              <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notice)
+            </th>
+         
+                              @*  <th>الإجراءات</th>*@
+                            </tr>
+                        </thead>
+                        <tbody class="table-border-bottom-0"> </tbody>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                   
+             
+            <td> @Html.DisplayFor(modelItem => item.Number)</td>
+
+             <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            
+             <td>
+                @Html.DisplayFor(modelItem => item.Periodhajz)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Daydate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>\
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceR)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hajzdate)
+             <td>
+                @Html.DisplayFor(modelItem => item.Typerev.Name)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Itemrev.Name)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Typemor.Name)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.User.UserName )
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CachRE)
+            </td>
+                                    <td>
+                                       
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                     <div>
+        @if (ViewBag.pagesCount > 1)
+        {
+            <div>
+                <span>Page:</span>
+                @for (int i = 1; i <= ViewBag.pagesCount; i++)
+                {
+                    <a href="@Url.Action("Tqarer", new { term = ViewBag.Term, fromDate = ViewBag.fromDate, toDate = ViewBag.toDate, RequiredPage = i, rowNum = ViewBag.num })">@i</a>
+                }
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No results found.</p>
+}
+                </div>
+            </div>
+            <!-- Basic Pagination -->
+            <div class="card-footer demo-inline-spacing ">
+                <nav aria-label="Page navigation">
+                    <ul class="pagination">
+                        @if (ViewBag.CurrentPage - 1 > 0)
+                        {
+                            <li class="page-item prev">
+                                <a class="page-link" href="/Newhajz/Newhajz/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage -1)&rowNum=@(ViewBag.num)"><i class="tf-icon bx bx-chevron-left"></i></a>
+                            </li>
+                        }
+
+                        @if (ViewBag.CurrentPage <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item active">
+                                <a class="page-link active" href="/Newhajz/Newhajz/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage )&rowNum=@(ViewBag.num)">@(ViewBag.CurrentPage)</a>
+                            </li>
+                        }
+
+                        @if (ViewBag.CurrentPage + 1 <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item ">
+                                <a class="page-link" href="/Newhajz/Newhajz/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage +1)&rowNum=@(ViewBag.num)">@(ViewBag.CurrentPage + 1)</a>
+                            </li>
+                        }
+                        @if (ViewBag.CurrentPage + 2 <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item ">
+                                <a class="page-link" href="/Newhajz/Newhajz/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage +2)&rowNum=@(ViewBag.num)">@(ViewBag.CurrentPage + 2)</a>
+                            </li>
+                        }
+
+                        @if (ViewBag.CurrentPage + 3 <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item next">
+                                <a class="page-link" href="/Newhajz/Newhajz/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage +3)&rowNum=@(ViewBag.num)"><i class="tf-icon bx bx-chevron-right"></i></a>
+                            </li>
+                        }
+                    </ul>
+                </nav>
+                <!--/ Basic Pagination -->
+            </div>
+        </div>
+        <!--/ Basic Bootstrap Table -->
+    </div>
+    <!-- / Content -->
+
+</div>
+
+@section Scripts {
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/bootbox.js/bootbox.min.js"></script>
+<script>
+
+    $(document).ready(function () {
+           $('.delete').on('click', function () {
+               var btn = $(this);
+               bootbox.confirm({
+                   message: "هل انت متاكد من الحذف؟",
+                   buttons: {
+                       confirm: {
+                           label: 'نعم',
+                           className: 'btn-danger'
+                       },
+                       cancel: {
+                           label: 'لا',
+                           className: 'btn-outline-secondary'
+                       }
+                   },
+                   callback: function (result) {
+                       if (result) {
+                           $.ajax({
+                               type : "Delete",
+                               url: "/Newhajz/Delete/?id="+btn.data('id'),
+                               success: function () {
+                                  btn.parents('tr').remove();
+                                   toastr.success('تم الحذف بنجاح');
+                               },
+                               error: function () {
+                                   toastr.error('العملية لم تنجح');
+                               }
+                           });
+                       }
+                   }
+               });
+           });
+       });
+</script>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    $('#btnprint').click(function(){
+        document.body.innerHTML=document.all.item("DataTables").innerHTML
+        window.print()
+        window.location.reload()
+    });
+</script>

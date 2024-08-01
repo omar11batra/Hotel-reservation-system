@@ -1,0 +1,66 @@
+﻿@model Typerev
+
+@{
+    ViewData["Title"] = "انواع الحجوزات";
+}
+    <!-- Content wrapper -->
+        <div class="content-wrapper">
+          <!-- Content -->
+
+          <div class="container-xxl flex-grow-1 container-p-y">
+           
+
+            <div class="row">
+              <div class="col-md-12">
+               
+                <div class="card mb-4">
+                  <h5 class="card-header">@(Model.Id > 0 ? "تعديل" : "إضافة ترميز")</h5>
+                  <!-- Account -->
+               
+             
+                  <hr class="my-0" />
+                  <div class="card-body">
+                    <form asp-action="@(Model.Id > 0 ? "Edit" : "Create")" id="multiStepsForm" method="POST">
+                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                      <input type="hidden" asp-for="Id" />
+                      <div class="column">
+                        <div class="col-md-3 mb-3">
+                          <label  asp-for="Number" class="form-label" for="id">الرقم </label>
+                          <input asp-for="Number" type="text" class="form-control" placeholder="1" />
+                          <span asp-validation-for="Number" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                          <label asp-for="Name" class="form-label" for="name">الاسم </label>
+                          <input asp-for="Name" type="text" class="form-control" id="name" placeholder=""
+                            aria-label="" />
+                         <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                       
+                      </div>
+                      <div class=" mt-2 d-grid gap-2 col-3">
+                        <button  type="submit" value="Save"  class="btn btn-primary ">حفظ </button>
+                       </div>  
+                    </form>
+                    <div class="mt-2 d-grid gap-2 col-3">
+                    <a  asp-action="Aistinaf" type="submit" class="btn btn-label-secondary">إلغاء</a>
+                  </div>
+                  </div>
+                  
+                  <!-- /Account -->
+                </div>
+               
+              </div>
+            </div>
+          </div>
+          <!-- / Content -->
+
+   
+
+
+          <div class="content-backdrop fade"></div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+}

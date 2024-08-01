@@ -1,0 +1,131 @@
+﻿@inject SignInManager<User> signInManager;
+@model CachRE
+
+@{
+    ViewData["Title"] = "عرض التفاصيل";
+}
+
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <div class="row">
+            <div class="col-md-12">
+
+                <div class="card mb-4">
+                    <h5 class="card-header">عرض التفاصيل</h5>
+
+
+                    <hr class="my-0" />
+
+                        <div class="card-body">
+                            <form asp-action="Details" id="addNewUserForm">
+                               <div >
+                                <div class="row" id="DataTables">
+                                    <div class="col-md-3 mb-3">
+                          <label  asp-for="Number" class="form-label" for="id">الرقم </label>
+                          <input asp-for="Number" type="text" class="form-control" placeholder="1" readonly />
+                          <span asp-validation-for="Number" class="text-danger"></span>
+                        </div>
+                                    <div class="col-md-3 mb-3">
+
+                                        <label asp-for="Newhajz.Name" class="form-label">الاسم </label>
+                                        <input id="Name" asp-for="Newhajz.Name" type="text" class="form-control" readonly />
+                                    </div>
+                                    <div class="col-md-3 mb-3">
+
+                                        <label asp-for="Newhajz.PhoneNumber" class="form-label">رقم الهاتف </label>
+                                        <input id="Name" asp-for="Newhajz.PhoneNumber" type="text" class="form-control" readonly />
+                                    </div>
+
+
+
+
+
+                                    @*<div class="col-md-3 mb-3">
+                                        <label asp-for="Typerev" class="form-label">رقم السند</label>
+                                        <input asp-for="Typerev" type="text" class="form-control" readonly />
+                                        </div>*@
+
+                                    <div class="col-md-3 mb-3">
+                                        <label asp-for="Price" class="form-label">المبلغ الاجمالي</label>
+                                        <input asp-for="Price" type="text" class="form-control" readonly />
+                                    </div>
+                                    <div class="col-md-3 mb-3">
+                                        <label asp-for="BondDate" class="form-label">تاريخ السند</label>
+                                        <input asp-for="BondDate" type="text" class="form-control" readonly />
+                                    </div>
+                                    <div class="col-md-3 mb-3">
+                          <label asp-for="PriceD" class="form-label" >مبلغ الدفعة التالي </label>
+                          <input asp-for="PriceD" id="priceD" type="text" class="form-control"  />
+                           <span asp-validation-for="PriceD" class="text-danger"></span>    
+                        </div>
+                              <div class="col-md-3 mb-3">
+                          <label asp-for="PriceR" class="form-label" >المبلغ المتبقي </label>
+                          <input asp-for="PriceR" id="newPriceR" type="text" class="form-control" readOnly/>
+                           <span asp-validation-for="PriceR" class="text-danger"></span>    
+                        </div>
+                                    <div class="col-md-3 mb-3">
+                                        <label asp-for="Notice" class="form-label">ملاحظات</label>
+                                        <textarea asp-for="Notice" class="form-control" rows="3" style="resize: none !important;" readonly></textarea>
+                                    </div>
+                                    @if (User.IsInRole("مدير_النظام"))
+                                    {
+                                        <div class="modal-footer justify-content-between">
+
+                                            <p class="fw-bolder">تم عمل هذا سند القبض بواسطة: (@Model.User.UserName)</p>
+
+                                            </div>
+                                    }
+                                </div>
+                    </div>
+                                
+
+
+                                <div class="mt-2">
+                                    @*<button type="button" onclick="printNewhajz()"  class="btn btn-primary me-2">طباعة</button>*@
+                                    <button type="button" id="btnprint"  class="btn btn-primary me-2">طباعة</button>
+                                    <button asp-action="Newhajz" type="submit" class="btn btn-primary me-2">رجوع</button>
+
+                                </div>
+                            </form>
+                        </div>
+                    <!-- /Account -->
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- / Content -->
+
+
+
+
+    <div class="content-backdrop fade"></div>
+</div>
+<!-- /Layout wrapper -->
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    $('#btnprint').click(function(){
+        document.body.innerHTML=document.all.item("DataTables").innerHTML
+        window.print()
+        window.location.reload()
+    });
+
+</script>
+<script>
+$(document).ready(function(){
+        $('#NewhajzpriceR,#priceD').keyup(function(){
+           var newPriceR=0;
+
+            var x=Number($('#NewhajzpriceR').val());
+            var y=Number($('#priceD').val());
+            var total=x-y;
+
+            $('#newPriceR').val(total);
+        })
+    })
+    </script>

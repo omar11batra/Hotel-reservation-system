@@ -1,0 +1,260 @@
+﻿@inject SignInManager<User> signInManager;
+@model IEnumerable<Hajz.Models.CachRE>
+@{
+    ViewData["Title"] = "حجز جديد";
+}
+
+
+
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <!-- Basic Bootstrap Table -->
+        <div class="card mb-4">
+
+            <div class="card-header">
+                <form method="get" action="@Url.Action("TqarerPrice")">
+                    <div class="row ms-2 me-3">
+
+                        <div class="col-12 col-md-6 d-flex align-items-center justify-content-center justify-content-md-start gap-2">
+
+
+                            <div class="dataTables_length" id="DataTables_Table_0_length">
+                                <label>
+                                    <select name="rowNum" aria-controls="DataTables_Table_0" class="form-select">
+                                        <option value="5" selected="@(ViewBag.num ==5 ? true :false)">5</option>
+                                        <option value="10" selected="@(ViewBag.num ==10 ? true :false)">10</option>
+                                        <option value="50" selected="@(ViewBag.num ==50 ? true :false)">50</option>
+                                        <option value="100" selected="@(ViewBag.num ==100 ? true :false)">100</option>
+                                    </select>
+                                </label>
+                            </div>
+
+
+
+                            <div id="DataTables_Table_0_filter" class="dataTables_filter">
+
+
+                                <div class="">
+                                    
+
+                                  @*  <span id="basic-icon-default-fullname2" class="input-group-text">
+                                        <i class="bx bx-search-alt"></i>
+                                    </span>
+                                     *@
+                                <div class="row">
+
+                                     <div>
+            <label for="fromDate">From Date:</label>
+            <input type="date" class="form-control"  id="fromDate" name="fromDate" value="" />
+        </div>
+        <div>
+            <label for="toDate">To Date:</label>
+            <input type="date" class="form-control"  id="toDate" name="toDate" value="" />
+        </div>
+        <div>
+            <label for="term">Search Term:</label>
+            <input type="text" id="term" name="term" value="@ViewBag.Term" />
+        </div>
+          <button type="submit" value="بحث" class="btn btn-primary ">بحث </button>
+                                </div>
+                                    
+                                </div>
+
+                            </div>
+                            <div> <button type="button" id="btnprint"  class="btn btn-primary me-2">طباعة</button></div>
+
+                        </div>
+
+                        <div class="col-12 col-md-6 d-flex align-items-center justify-content-end flex-column flex-md-row pe-3 gap-md-2">
+                            <div class="dt-action-buttons text-xl-end text-lg-start text-md-end text-start mt-md-0 mt-3">
+
+                                <div class="dt-buttons">
+                                    @if (User.IsInRole("مدير_النظام") || User.IsInRole("مستخدم"))
+                                    {
+                                        <a class="dt-button btn btn-primary"
+                                       asp-area="" asp-action="Create">
+                                            <span><i class="bx bx-plus me-md-2"></i><span class="d-md-inline-block d-none">إضافة عنصر جديد</span></span>
+                                        </a>
+                                    }
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="card-body" id="DataTables">
+
+                <div class="table-responsive text-nowrap">
+                              @if (Model != null )
+{
+                    <table class="table">
+                        <thead>
+                            <tr>
+                               
+
+            <th>
+                @Html.DisplayNameFor(model => model.Newhajz.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Newhajz.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Newhajz.PriceD)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.PriceD)
+            </th>
+           
+              <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            
+         
+                              @*  <th>الإجراءات</th>*@
+                            </tr>
+                        </thead>
+                        <tbody class="table-border-bottom-0"> </tbody>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                   
+             
+            <td>
+                @Html.DisplayFor(modelItem => item.Newhajz.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Newhajz.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Newhajz.PriceD)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            
+                                    <td>
+                                        @*<div class="dropdown">
+                                            <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown">
+                                                <i class="bx bx-dots-vertical-rounded"></i>
+                                            </button>
+                                            <div class="dropdown-menu">
+                                                @if (User.IsInRole("مدير_النظام") || User.IsInRole("مستخدم"))
+                                                {
+                                                    <a class="dropdown-item" asp-action="Edit" asp-route-id="@item.Id"><i class="bx bx-edit-alt me-2"></i> تعديل</a>
+                                                }
+                                                @if (User.IsInRole("مدير_النظام"))
+                                                {
+                                                    <a class="dropdown-item delete" data-id="@item.Id" href="javascript:void(0);">
+                                                        <i class="bx bx-trash me-2"></i>
+                                                        حذف
+                                                    </a>
+                                                }
+                                                 <a class="dropdown-item" asp-action="Details" asp-route-id="@item.Id"><i class="bx bx-detail me-2"></i> عرض التفاصيل</a>
+                                            </div>
+                                        </div>*@
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                     <div>
+        @if (ViewBag.pagesCount > 1)
+        {
+            <div>
+                <span>Page:</span>
+                @for (int i = 1; i <= ViewBag.pagesCount; i++)
+                {
+                    <a href="@Url.Action("TqarerPrice", new { term = ViewBag.Term, fromDate = ViewBag.fromDate, toDate = ViewBag.toDate, RequiredPage = i, rowNum = ViewBag.num })">@i</a>
+                }
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No results found.</p>
+}
+                </div>
+            </div>
+            <!-- Basic Pagination -->
+            <div class="card-footer demo-inline-spacing ">
+                <nav aria-label="Page navigation">
+                    <ul class="pagination">
+                        @if (ViewBag.CurrentPage - 1 > 0)
+                        {
+                            <li class="page-item prev">
+                                <a class="page-link" href="/CachRE/CachRE/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage -1)&rowNum=@(ViewBag.num)"><i class="tf-icon bx bx-chevron-left"></i></a>
+                            </li>
+                        }
+
+                        @if (ViewBag.CurrentPage <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item active">
+                                <a class="page-link active" href="/CachRE/CachRE/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage )&rowNum=@(ViewBag.num)">@(ViewBag.CurrentPage)</a>
+                            </li>
+                        }
+
+                        @if (ViewBag.CurrentPage + 1 <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item ">
+                                <a class="page-link" href="/CachRE/CachRE/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage +1)&rowNum=@(ViewBag.num)">@(ViewBag.CurrentPage + 1)</a>
+                            </li>
+                        }
+                        @if (ViewBag.CurrentPage + 2 <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item ">
+                                <a class="page-link" href="/CachRE/CachRE/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage +2)&rowNum=@(ViewBag.num)">@(ViewBag.CurrentPage + 2)</a>
+                            </li>
+                        }
+
+                        @if (ViewBag.CurrentPage + 3 <= ViewBag.pagesCount)
+                        {
+                            <li class="page-item next">
+                                <a class="page-link" href="/CachRE/CachRE/?term=@(ViewBag.term)&RequiredPage=@(ViewBag.CurrentPage +3)&rowNum=@(ViewBag.num)"><i class="tf-icon bx bx-chevron-right"></i></a>
+                            </li>
+                        }
+                    </ul>
+                </nav>
+                <!--/ Basic Pagination -->
+            </div>
+        </div>
+        <!--/ Basic Bootstrap Table -->
+    </div>
+    <!-- / Content -->
+
+</div>
+
+@section Scripts {
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/bootbox.js/bootbox.min.js"></script>
+<script>
+    $('#btnprint').click(function(){
+        document.body.innerHTML=document.all.item("DataTables").innerHTML
+        window.print()
+        window.location.reload()
+    });
+</script>
+}
+
+
+
+
+
+
+
+
+
+
+
+
